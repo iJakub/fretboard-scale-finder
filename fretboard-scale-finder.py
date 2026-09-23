@@ -537,10 +537,7 @@ note_label.place(
 
 scale_combo = ttk.Combobox(
     state="readonly",
-    values=[
-        "Major",
-        "Minor"
-    ],
+    values=list(scales.keys()),
     textvar=trace_scale
 )
 
