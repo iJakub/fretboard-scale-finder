@@ -1,4 +1,5 @@
 #iJ
+#refactored using Gemini 3.1 Pro
 
 from tkinter import ttk
 import tkinter as tk
