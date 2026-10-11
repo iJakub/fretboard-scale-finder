@@ -76,7 +76,27 @@ scales = {
     "Lydian": [2, 2, 2, 1, 2, 2, 1],
     "Mixolydian": [2, 2, 1, 2, 2, 1, 2],
     "Aeolian": [2, 1, 2, 2, 1, 2, 2],
-    "Locrian": [1, 2, 2, 1, 2, 2, 2]
+    "Locrian": [1, 2, 2, 1, 2, 2, 2],
+    "Arabic": [1, 3, 1, 2, 1, 3, 1],
+    "Diminished": [2, 1, 2, 1, 2, 1, 2, 1],
+    "Enigmatic": [1, 3, 2, 2, 2, 1, 1],
+    "Gypsy": [1, 3, 1, 2, 1, 2, 2],
+    "Hindu": [2, 2, 1, 2, 1, 2, 2],
+    "Hirajoshi": [2, 1, 4, 1, 4],
+    "Hungarian minor": [2, 1, 3, 1, 1, 3, 1],
+    "Insen": [1, 4, 2, 3, 2],
+    "Japanese": [1, 4, 2, 1, 4],
+    "Kumoi": [2, 1, 4, 2, 3],
+    "Neapolitan": [1, 2, 2, 2, 2, 2, 1],
+    "Neapolitan minor": [1, 2, 2, 2, 1, 3, 1],
+    "Pelog": [1, 2, 4, 1, 4],
+    "Persian": [1, 3, 1, 1, 2, 3, 1],
+    "Prometheus": [2, 2, 2, 3, 1, 2],
+    "Prometheus neapolitan": [1, 3, 2, 3, 1, 2],
+    "Romani": [2, 1, 3, 1, 1, 3, 1],
+    "Spanish 8-tone": [1, 2, 1, 1, 1, 2, 2, 2],
+    "Super Locrian": [1, 2, 1, 2, 2, 2, 2],
+    "Whole tone": [2, 2, 2, 2, 2, 2]
 }
 
 # Default Tuning
